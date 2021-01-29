@@ -27,7 +27,7 @@ pip install -r requirements.txt
 Now, just compile the ```.py``` or ```.ipynb``` file and you are good to go. 
 
 ## Results
-For the above model in the ```.ipynb``` file, the final accuracy measures are:
+For the above model in the ```.ipynb``` file, the final accuracy measures are given below and the weights are saved in the ```Trained_model.h5``` file:
 - Training accuracy = 44.85%
 - Training loss = 17.32%
 - Validation accuracy = 70.00%
